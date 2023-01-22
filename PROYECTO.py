@@ -16,4 +16,8 @@ a=0
 for i in range(5):
     a+=1
     print(a)
+    
+    
+print("se agrega adicion en el doc de estilos")
+
 
